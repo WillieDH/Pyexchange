@@ -27,10 +27,13 @@ To use Pyexchange, follow these simple steps:
     ```bash
     pip install requests
 
-3. Run the application
+3. Navigate to the source code:
 
     ```bash
     cd Pyexchange/src
+
+4. Run the Application
+   ```bash
     python pyexchange.py
 
 ## Usage

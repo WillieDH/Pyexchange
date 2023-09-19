@@ -13,6 +13,10 @@ Pyexchange is a Python console application that leverages the exchangerate-api t
 
 ## Getting Started
 
+Make sure you already have pip and python installed on your system: 
+https://www.python.org/downloads/
+https://pip.pypa.io/en/stable/installation/
+
 To use Pyexchange, follow these simple steps:
 
 1. Clone this repository to your local machine:

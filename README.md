@@ -28,6 +28,7 @@ To use Pyexchange, follow these simple steps:
 3. Run the application
 
     ```bash
+    cd Pyexchange/src
     python pyexchange.py
 
 ## Usage

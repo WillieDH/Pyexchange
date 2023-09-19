@@ -21,9 +21,13 @@ To use Pyexchange, follow these simple steps:
    git clone https://github.com/your-username/pyexchange.git
 
 2. Install the required Python Libraries using pip:
+
+    ```bash
     pip install requests
 
 3. Run the application
+
+    ```bash
     python pyexchange.py
 
 ## Usage

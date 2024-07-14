@@ -1,5 +1,6 @@
 # Pyexchange - Currency Exchange Application
-
+![Pyexchange](https://github.com/WillieDH/capstone-portfolio/blob/master/images/pyexchangelogo.png)
+Image created using IMG2GO AI tool.
 ## Overview
 
 Pyexchange is a Python application that leverages the exchangerate-api to provide accurate exchange rates. This project was created to gain hands-on experience in working with APIs, processing JSON data, and creating desktop application GUIs with Qt for Python(PySide6).
@@ -63,3 +64,7 @@ GUI Version
 2. You will see a label saying "Enter USD Amount:" simply enter the amount (in USD) you want to convert. Then select a currency from the dropbox below it.
 
 3. Click the "Convert!" button to see your converted amount.
+
+## License
+
+This project is licensed under the GNU GPL v3 - see the [LICENSE](LICENSE) file for details.

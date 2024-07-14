@@ -20,7 +20,7 @@ https://pip.pypa.io/en/stable/installation/
 
 To use Pyexchange, follow these simple steps:
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine or download the .zip file and unzip it:
 
    ```bash
    git clone https://github.com/WillieDLive/Pyexchange.git

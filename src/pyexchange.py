@@ -9,11 +9,11 @@ response = requests.get(url)
 data = response.json()
 
 # Place json data from API request into /data
-with open('../data/exchange_rates.json', 'w') as file:
+with open('data\exchange_rates.json', 'w') as file:
     json.dump(data, file)
 
 # Takes json data and puts it into variable
-with open('../data/exchange_rates.json', 'r') as file_read:
+with open('data\exchange_rates.json', 'r') as file_read:
     file_data = file_read.read()
 
 # Turns json data into python dictionary
